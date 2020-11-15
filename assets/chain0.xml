@@ -98,7 +98,7 @@
 
                                         <geom size="0.0185 0.0120 0.0175" pos="0 -.014 0.015" type="box" euler='-.03 0 0' />
                                     </body>
-                                    <body name="b_endeff" pos="0 0 .210" euler='0 0 -0.785398'>
+                                    <body name="b_endeff" pos="0 0 .250" euler='0 0 -0.785398'>
                                         <geom name="endeff" pos="0. 0. 0" rgba="1.0 0.0 0.0 0.5" size="0.02" type="sphere" contype="0" conaffinity="0"/>
                                     </body>
                                 </body>

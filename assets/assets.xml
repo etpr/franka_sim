@@ -9,7 +9,7 @@
 
     <compiler angle="radian"/>
     <!-- <option timestep="0.002" noslip_iterations="20"/> -->
-    <option timestep="0.002"/>
+    <option gravity="0 0 0" timestep="0.002"/>
     <size nuser_actuator="5"/>
 
     <asset>
